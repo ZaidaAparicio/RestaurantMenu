@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.with-background-image {
+    background-image: url('../../assets/img/menuFondo.jpg');
+    background-size: cover; }
